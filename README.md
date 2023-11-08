@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Danillo Leite! 🖐🏻
 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danillooleite/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danillooleite/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dev-danillo-leite)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danillooleite&langs_count=8)
 
